@@ -14,21 +14,24 @@ Se elige a Debian como sistema operativo instal&aacute;ndolo sin entorno gr&aacu
 
 **Tabla de contenidos**  
 [Crear medio de arranque](#paso0)  
-[Instalaci&oacute;n de Debian 12 sin escritorio](#paso1)  
-[Instalaci&oacute;n del escritorio LXDE](#paso2)   
-[Instalaci&oacute;n de las utilidades del sistema](#paso3)  
-[Instalaci&oacute;n del sonido](#paso4)  
-[Instalaci&oacute;n de los Codecs](#paso5)  
-[Instalaci&oacute;n del software multimedia](#paso6)  
-[Instalaci&oacute;n del software para internet](#paso7)  
-[Instalaci&oacute;n del software para ofim&aacute;tica](#paso8)  
-[Instalaci&oacute;n de juegos](#paso9)  
-[Personalizaci&oacute;n con la apariencia de Microsoft Windows 95](#paso10)
+[Instalar Debian 12 sin escritorio](#paso1)  
+[Instalar el escritorio LXDE](#paso2)   
+[Instalar las utilidades del sistema](#paso3)  
+[Instalar el sonido](#paso4)  
+[Instalar los Codecs](#paso5)  
+[Instalar el software multimedia](#paso6)  
+[Instalar el software para internet](#paso7)  
+[Instalar el software para ofim&aacute;tica](#paso8)  
+[Instalar algunos juegos](#paso9)  
+[Personalizar LXDE con la apariencia de Microsoft Windows 95](#paso10)
 
 <a name="paso0"></a>
 ## Crear medio de arranque
-*NOTA: Para crear la unidad USB arrancable se usa el programa Rufus usando un sistema operativo Windows*
+*NOTA: Para crear la unidad USB arrancable se usa el programa Rufus en Microsoft Windows*
 1. Descargamos el programa Rufus desde su direcci&oacute;n: [https://rufus.ie/es/](https://rufus.ie/es/)
 2. Descargamos la imagen de instalaci&oacute;n "iso netinst para PC de 32 bits" desde la web de Debian: [https://www.debian.org/distrib/](https://www.debian.org/distrib/)
 3. Grabamos la imagen en una memoria USB con capacidad suficiente (como m&iacute;nimo de 2 GB) con las siguientes opciones:  
-d
+   ![Opciones grabar Debian 32bit en Rufus](/img/0.png)
+
+<a name="paso1"></a>
+## Instalar Debian 12 sin escritorio   
