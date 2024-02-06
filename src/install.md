@@ -34,4 +34,18 @@ Se elige a Debian como sistema operativo instal&aacute;ndolo sin entorno gr&aacu
    ![Opciones grabar Debian 32bit en Rufus](/img/0.png)
 
 <a name="paso1"></a>
-## Instalar Debian 12 sin escritorio   
+## Instalar Debian 12 sin escritorio
+**Uso del teclado durante la instalaci&oacute;n**
+![Teclas usadas en el teclado para instalar Debian](/img/teclado.png)
+Imagen: [https://upload.wikimedia.org/wikipedia/commons/e/e5/Iso-105-dvorak-spanish-keyboard-layout.png](https://upload.wikimedia.org/wikipedia/commons/e/e5/Iso-105-dvorak-spanish-keyboard-layout.png)
+
+Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa el teclado para navegar por las opciones:
+- Escape --> Sale al men&uacute; principal
+- Tabulaci&oacute;n --> salta entre opciones
+- Barra espaciadora --> marca la opci&oacute;n
+- Retroceso --> borra
+- Enter --> confirma la opci&oacute;n seleccionada
+- Flechas de direcci&oacute;n --> nos movemos por las opciones
+    
+*Varia en funci&oacute;n del idioma del teclado seleccionado durante la instalaci&oacute;n*
+
