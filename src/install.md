@@ -49,3 +49,58 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
     
 *Varia en funci&oacute;n del idioma del teclado seleccionado durante la instalaci&oacute;n*
 
+#### [1] Conectamos la memoria USB y arrancamos el equipo presionando la tecla ESC mientras aparece el logo de Asus Eee PC:
+![Imagen uno del manual para instalar Debian](/img/1.png)
+
+#### [2] Seleccionamos la memoria USB desde la que va a arrancar:
+![Imagen dos del manual para instalar Debian](/img/2.png)
+
+#### [3] Seleccionamos "Install":
+![Imagen tres del manual para instalar Debian](/img/3.png)
+
+#### [4] Pulsamos la tecla "espacio" para que elija el instalador el modo de video:
+![Imagen cuatro del manual para instalar Debian](/img/4.png)
+
+#### [5] Elegimos nuestro idioma:
+![Imagen cinco del manual para instalar Debian](/img/5.png)
+
+#### [6] Elegimos nuestra ubicaci&oacute;n:
+![Imagen seis del manual para instalar Debian](/img/6.png)
+
+#### [7] Elegimos la configuraci&oacute;n de teclado:
+![Imagen siete del manual para instalar Debian](/img/7.png)
+
+#### [8] Esperamos mientras carga algunos componentes y configura la red:
+![Imagen ocho del manual para instalar Debian](/img/8.png)
+
+#### [9] Le damos un nombre al netbook y pulsamos la tecla "tabulaci&oacute;n" y "enter" para continuar:
+![Imagen nueve del manual para instalar Debian](/img/9.png)
+
+#### [10] Dejamos en blanco el nombre de dominio ("tabulaci&oacute;n + enter" para continuar):
+![Imagen diez del manual para instalar Debian](/img/10.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
