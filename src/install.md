@@ -79,6 +79,86 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 #### [10] Dejamos en blanco el nombre de dominio ("tabulaci&oacute;n + enter" para continuar):
 ![Imagen diez del manual para instalar Debian](/img/10.png)
 
+#### [11] Le damos una contrase&ntilde;a al usuario root. ("tabulaci&oacute;n + espacio" para "Mostrar la contrase&ntilde;a en claro":
+![Imagen ocho del manual para instalar Debian](/img/11.png)
+
+#### [12] Nos pide que la verifiquemos:
+![Imagen ocho del manual para instalar Debian](/img/12.png)
+
+#### [13] Le damos un nombre al usuario del sistema (por seguridad, para usar Debian sin ser administrador):
+![Imagen ocho del manual para instalar Debian](/img/13.png)
+
+#### [14] Nos pide verificar el nombre del nuevo usuario:
+![Imagen ocho del manual para instalar Debian](/img/14.png)
+
+#### [15] Damos una contrase&ntilde;a al nuevo usuario:
+![Imagen ocho del manual para instalar Debian](/img/15.png)
+
+#### [16] Y la verificamos:
+![Imagen ocho del manual para instalar Debian](/img/16.png)
+
+#### [17] Seleccionamos nuestra zona horaria:
+![Imagen ocho del manual para instalar Debian](/img/17.png)
+
+#### [18] Comienza la detecci&oacute;n de los discos y del hardware:
+![Imagen ocho del manual para instalar Debian](/img/18.png)
+
+#### [19] En partizionado de discos elegimos "Manual" (tecla "enter" para aceptar):
+![Imagen ocho del manual para instalar Debian](/img/19.png)
+
+#### [20] sda es el disco duro interno de 4 GB:
+![Imagen ocho del manual para instalar Debian](/img/20.png)
+
+#### [21] sdb es la memoria que hemos conectado por usb con el instalador de Debian:
+![Imagen ocho del manual para instalar Debian](/img/21.png)
+
+#### [22] sdc es la la tarjeta de memoria de 32 GB:
+![Imagen ocho del manual para instalar Debian](/img/22.png)
+
+#### [23] Seleccionamos el espacio libre del disco duro y elegimos "Crear una partici&oacute;n nueva":
+![Imagen ocho del manual para instalar Debian](/img/23.png)
+
+#### [24] Le damos 3.8 GB y continuamos:
+![Imagen ocho del manual para instalar Debian](/img/24.png)
+
+#### [25] Elegimos Primaria:
+![Imagen ocho del manual para instalar Debian](/img/25.png)
+
+#### [26] La ubicamos al principio:
+![Imagen ocho del manual para instalar Debian](/img/26.png)
+
+#### [27] Dejamos el resto de opciones como est&aacute;n y seleccionamos "Se ha terminado de definir la partici&oacute;n":
+![Imagen ocho del manual para instalar Debian](/img/27.png)
+
+#### [28] Seleccionamos el espacio libre que nos queda en el disco sda:
+![Imagen ocho del manual para instalar Debian](/img/28.png)
+
+#### [29] Creamos una partici&oacute;n nueva:
+![Imagen ocho del manual para instalar Debian](/img/29.png)
+
+#### [30] Dejamos el tama&ntilde;o restante y continuamos:
+![Imagen ocho del manual para instalar Debian](/img/30.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
