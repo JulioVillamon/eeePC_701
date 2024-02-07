@@ -103,7 +103,7 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 #### [18] Comienza la detecci&oacute;n de los discos y del hardware:
 ![Imagen ocho del manual para instalar Debian](/img/18.png)
 
-#### [19] En partizionado de discos elegimos "Manual" (tecla "enter" para aceptar):
+#### [19] En particionado de discos elegimos "Manual" (tecla "enter" para aceptar):
 ![Imagen ocho del manual para instalar Debian](/img/19.png)
 
 #### [20] sda es el disco duro interno de 4 GB:
