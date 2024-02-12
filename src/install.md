@@ -139,6 +139,96 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 #### [30] Dejamos el tama&ntilde;o restante y continuamos:
 ![Imagen ocho del manual para instalar Debian](/img/30.png)
 
+#### [31] Elegimos partición l&oacute;gica:
+![Imagen ocho del manual para instalar Debian](/img/31.png)
+
+#### [32] Entramos en "utilizar como":
+![Imagen ocho del manual para instalar Debian](/img/32.png)
+
+#### [33] Seleccionamos "área de intercambio":
+![Imagen ocho del manual para instalar Debian](/img/33.png)
+
+#### [34] Por &uacute;ltimo seleccionamos "Se ha terminado de definir la partici&oacute;n":
+![Imagen ocho del manual para instalar Debian](/img/34.png)
+
+#### [35] El disco duro queda con una partici&oacute;n de 3.8 GB para el sistema y otra con 199.2 MB para memoria swap:
+![Imagen ocho del manual para instalar Debian](/img/35.png)
+
+#### [36] Ahora seleccionamos el espacio libre de la tarjeta de memoria:
+![Imagen ocho del manual para instalar Debian](/img/36.png)
+
+#### [37] Creamos una partici&oacute;n nueva:
+![Imagen ocho del manual para instalar Debian](/img/37.png)
+
+#### [38] Dejamos todo el espacio y continuamos:
+![Imagen ocho del manual para instalar Debian](/img/38.png)
+
+#### [39] Tipo de nueva partici&oacute;n primaria:
+![Imagen ocho del manual para instalar Debian](/img/39.png)
+
+#### [40] En punto de montaje seleccionamos /home:
+![Imagen ocho del manual para instalar Debian](/img/40.png)
+
+#### [41] Por &iacute;ltimo seleccionamos "Se ha terminado de definir la partici&oacute;n":
+![Imagen ocho del manual para instalar Debian](/img/41.png)
+
+#### [42] El particionado queda con 3.8 GB para el sistema, 199.2 MB para la memoria swap y 30.9 GB para los datos de usuario:
+![Imagen ocho del manual para instalar Debian](/img/42.png)
+
+#### [43] Finalizamos el particionado y escribimos los cambios:
+![Imagen ocho del manual para instalar Debian](/img/43.png)
+
+#### [44] Confirmamos los cambios:
+![Imagen ocho del manual para instalar Debian](/img/44.png)
+
+#### [45] Comienza el formateo de las particiones:
+![Imagen ocho del manual para instalar Debian](/img/45.png)
+
+#### [46] Al acabar instala el sistema base:
+![Imagen ocho del manual para instalar Debian](/img/46.png)
+
+#### [47] Seleccionamos nuestro pa&iacute;s para la r&eacute;plica de Debian:
+![Imagen ocho del manual para instalar Debian](/img/47.png)
+
+#### [48] Dejamos por defecto la opci&oacute;n recomendada:
+![Imagen ocho del manual para instalar Debian](/img/48.png)
+
+#### [49] Dejamos en blanco la informaci&oacute;n del proxy:
+![Imagen ocho del manual para instalar Debian](/img/49.png)
+
+#### [50] Descargar&aacute; algunos ficheros:
+![Imagen ocho del manual para instalar Debian](/img/50.png)
+
+#### [51] Instalaci&oacute;n de programas:
+![Imagen ocho del manual para instalar Debian](/img/51.png)
+
+#### [52] Elegimos si queremos enviar informaci&oacute;n a Debian sobre el uso de paquetes:
+![Imagen ocho del manual para instalar Debian](/img/52.png)
+
+#### [53] No instalamos escritorio, ni el servidor SSH ni las utilidades est&aacute;ndar del sistema:
+![Imagen ocho del manual para instalar Debian](/img/53.png)
+
+#### [54] Tras instalar el software, configura el gestor de arranque:
+![Imagen ocho del manual para instalar Debian](/img/54.png)
+
+#### [55] Confirmamos la instalaci&oacute;n de GRUB en la unidad principal:
+![Imagen ocho del manual para instalar Debian](/img/55.png)
+
+#### [56] Seleccionamos /dev/sda para instalar el gestor de arraque en el disco duro del netbook:
+![Imagen ocho del manual para instalar Debian](/img/56.png)
+
+#### [57] Finalizar&aacute; la instalaci&oacute;n con unos &uacute;ltimos ajustes:
+![Imagen ocho del manual para instalar Debian](/img/57.png)
+
+#### [58] Nos pedir&aacute; reiniciar el netbook sin la memoria usb de instalaci&oacute;n conectada:
+![Imagen ocho del manual para instalar Debian](/img/58.png)
+
+#### [59] Al reiniciar nos pide el nombre de usuario y la contrase&ntilde;a:
+![Imagen ocho del manual para instalar Debian](/img/59.png)
+
+#### [60] Accedemos a Debian en modo texto, ya que no hemos instalado un entono gr&aacute;fico:
+![Imagen ocho del manual para instalar Debian](/img/60.png)
+
 
 
 
