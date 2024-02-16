@@ -340,7 +340,7 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 <a name="paso9"></a>
 ## Instalar algunos juegos
 
-#### [90]  Instalamos el emulador paa dosbox con `apt install dosbox`:
+#### [90]  Instalamos el emulador para dosbox con `apt install dosbox`:
 ![Imagen noventa del manual para instalar Debian](/img/90.png)
 
 #### [91]  Instalamos el juego vodovod con `apt install vodovod`:
