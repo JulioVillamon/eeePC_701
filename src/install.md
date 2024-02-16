@@ -80,154 +80,280 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 ![Imagen diez del manual para instalar Debian](/img/10.png)
 
 #### [11] Le damos una contrase&ntilde;a al usuario root. ("tabulaci&oacute;n + espacio" para "Mostrar la contrase&ntilde;a en claro":
-![Imagen ocho del manual para instalar Debian](/img/11.png)
+![Imagen once del manual para instalar Debian](/img/11.png)
 
 #### [12] Nos pide que la verifiquemos:
-![Imagen ocho del manual para instalar Debian](/img/12.png)
+![Imagen doce del manual para instalar Debian](/img/12.png)
 
 #### [13] Le damos un nombre al usuario del sistema (por seguridad, para usar Debian sin ser administrador):
-![Imagen ocho del manual para instalar Debian](/img/13.png)
+![Imagen trece del manual para instalar Debian](/img/13.png)
 
 #### [14] Nos pide verificar el nombre del nuevo usuario:
-![Imagen ocho del manual para instalar Debian](/img/14.png)
+![Imagen catorce del manual para instalar Debian](/img/14.png)
 
 #### [15] Damos una contrase&ntilde;a al nuevo usuario:
-![Imagen ocho del manual para instalar Debian](/img/15.png)
+![Imagen quince del manual para instalar Debian](/img/15.png)
 
 #### [16] Y la verificamos:
-![Imagen ocho del manual para instalar Debian](/img/16.png)
+![Imagen diceiséis del manual para instalar Debian](/img/16.png)
 
 #### [17] Seleccionamos nuestra zona horaria:
-![Imagen ocho del manual para instalar Debian](/img/17.png)
+![Imagen diecisiete del manual para instalar Debian](/img/17.png)
 
 #### [18] Comienza la detecci&oacute;n de los discos y del hardware:
-![Imagen ocho del manual para instalar Debian](/img/18.png)
+![Imagen dieciocho del manual para instalar Debian](/img/18.png)
 
 #### [19] En particionado de discos elegimos "Manual" (tecla "enter" para aceptar):
-![Imagen ocho del manual para instalar Debian](/img/19.png)
+![Imagen diecinueve del manual para instalar Debian](/img/19.png)
 
 #### [20] sda es el disco duro interno de 4 GB:
-![Imagen ocho del manual para instalar Debian](/img/20.png)
+![Imagen veinte del manual para instalar Debian](/img/20.png)
 
 #### [21] sdb es la memoria que hemos conectado por usb con el instalador de Debian:
-![Imagen ocho del manual para instalar Debian](/img/21.png)
+![Imagen veintiuno del manual para instalar Debian](/img/21.png)
 
 #### [22] sdc es la la tarjeta de memoria de 32 GB:
-![Imagen ocho del manual para instalar Debian](/img/22.png)
+![Imagen veintidos del manual para instalar Debian](/img/22.png)
 
 #### [23] Seleccionamos el espacio libre del disco duro y elegimos "Crear una partici&oacute;n nueva":
-![Imagen ocho del manual para instalar Debian](/img/23.png)
+![Imagen veintitrés del manual para instalar Debian](/img/23.png)
 
 #### [24] Le damos 3.8 GB y continuamos:
-![Imagen ocho del manual para instalar Debian](/img/24.png)
+![Imagen veinticuatro del manual para instalar Debian](/img/24.png)
 
 #### [25] Elegimos Primaria:
-![Imagen ocho del manual para instalar Debian](/img/25.png)
+![Imagen veinticinco del manual para instalar Debian](/img/25.png)
 
 #### [26] La ubicamos al principio:
-![Imagen ocho del manual para instalar Debian](/img/26.png)
+![Imagen vintiséis del manual para instalar Debian](/img/26.png)
 
 #### [27] Dejamos el resto de opciones como est&aacute;n y seleccionamos "Se ha terminado de definir la partici&oacute;n":
-![Imagen ocho del manual para instalar Debian](/img/27.png)
+![Imagen veintisiete del manual para instalar Debian](/img/27.png)
 
 #### [28] Seleccionamos el espacio libre que nos queda en el disco sda:
-![Imagen ocho del manual para instalar Debian](/img/28.png)
+![Imagen veintiocho del manual para instalar Debian](/img/28.png)
 
 #### [29] Creamos una partici&oacute;n nueva:
-![Imagen ocho del manual para instalar Debian](/img/29.png)
+![Imagen veintinueve del manual para instalar Debian](/img/29.png)
 
 #### [30] Dejamos el tama&ntilde;o restante y continuamos:
-![Imagen ocho del manual para instalar Debian](/img/30.png)
+![Imagen treinta del manual para instalar Debian](/img/30.png)
 
 #### [31] Elegimos partición l&oacute;gica:
-![Imagen ocho del manual para instalar Debian](/img/31.png)
+![Imagen treinta y uno del manual para instalar Debian](/img/31.png)
 
 #### [32] Entramos en "utilizar como":
-![Imagen ocho del manual para instalar Debian](/img/32.png)
+![Imagen treinta y dos del manual para instalar Debian](/img/32.png)
 
 #### [33] Seleccionamos "área de intercambio":
-![Imagen ocho del manual para instalar Debian](/img/33.png)
+![Imagen treinta y tres del manual para instalar Debian](/img/33.png)
 
 #### [34] Por &uacute;ltimo seleccionamos "Se ha terminado de definir la partici&oacute;n":
-![Imagen ocho del manual para instalar Debian](/img/34.png)
+![Imagen treinta y cuatro del manual para instalar Debian](/img/34.png)
 
 #### [35] El disco duro queda con una partici&oacute;n de 3.8 GB para el sistema y otra con 199.2 MB para memoria swap:
-![Imagen ocho del manual para instalar Debian](/img/35.png)
+![Imagen treinta y cinco del manual para instalar Debian](/img/35.png)
 
 #### [36] Ahora seleccionamos el espacio libre de la tarjeta de memoria:
-![Imagen ocho del manual para instalar Debian](/img/36.png)
+![Imagen treinta y seis del manual para instalar Debian](/img/36.png)
 
 #### [37] Creamos una partici&oacute;n nueva:
-![Imagen ocho del manual para instalar Debian](/img/37.png)
+![Imagen treinta y siete del manual para instalar Debian](/img/37.png)
 
 #### [38] Dejamos todo el espacio y continuamos:
-![Imagen ocho del manual para instalar Debian](/img/38.png)
+![Imagen treinta y ocho del manual para instalar Debian](/img/38.png)
 
 #### [39] Tipo de nueva partici&oacute;n primaria:
-![Imagen ocho del manual para instalar Debian](/img/39.png)
+![Imagen treinta y nueve del manual para instalar Debian](/img/39.png)
 
 #### [40] En punto de montaje seleccionamos /home:
-![Imagen ocho del manual para instalar Debian](/img/40.png)
+![Imagen cuarenta del manual para instalar Debian](/img/40.png)
 
 #### [41] Por &iacute;ltimo seleccionamos "Se ha terminado de definir la partici&oacute;n":
-![Imagen ocho del manual para instalar Debian](/img/41.png)
+![Imagen cuarenta y uno del manual para instalar Debian](/img/41.png)
 
 #### [42] El particionado queda con 3.8 GB para el sistema, 199.2 MB para la memoria swap y 30.9 GB para los datos de usuario:
-![Imagen ocho del manual para instalar Debian](/img/42.png)
+![Imagen cuarenta y dos del manual para instalar Debian](/img/42.png)
 
 #### [43] Finalizamos el particionado y escribimos los cambios:
-![Imagen ocho del manual para instalar Debian](/img/43.png)
+![Imagen cuarenta y tres del manual para instalar Debian](/img/43.png)
 
 #### [44] Confirmamos los cambios:
-![Imagen ocho del manual para instalar Debian](/img/44.png)
+![Imagen cuarenta y cuatro del manual para instalar Debian](/img/44.png)
 
 #### [45] Comienza el formateo de las particiones:
-![Imagen ocho del manual para instalar Debian](/img/45.png)
+![Imagen cuarenta y cinco del manual para instalar Debian](/img/45.png)
 
 #### [46] Al acabar instala el sistema base:
-![Imagen ocho del manual para instalar Debian](/img/46.png)
+![Imagen cuarenta y seis del manual para instalar Debian](/img/46.png)
 
 #### [47] Seleccionamos nuestro pa&iacute;s para la r&eacute;plica de Debian:
-![Imagen ocho del manual para instalar Debian](/img/47.png)
+![Imagen cuarenta y siete del manual para instalar Debian](/img/47.png)
 
 #### [48] Dejamos por defecto la opci&oacute;n recomendada:
-![Imagen ocho del manual para instalar Debian](/img/48.png)
+![Imagen cuarenta y ocho del manual para instalar Debian](/img/48.png)
 
 #### [49] Dejamos en blanco la informaci&oacute;n del proxy:
-![Imagen ocho del manual para instalar Debian](/img/49.png)
+![Imagen cuarenta y nueve del manual para instalar Debian](/img/49.png)
 
 #### [50] Descargar&aacute; algunos ficheros:
-![Imagen ocho del manual para instalar Debian](/img/50.png)
+![Imagen cincuenta del manual para instalar Debian](/img/50.png)
 
 #### [51] Instalaci&oacute;n de programas:
-![Imagen ocho del manual para instalar Debian](/img/51.png)
+![Imagen cincuenta y uno del manual para instalar Debian](/img/51.png)
 
 #### [52] Elegimos si queremos enviar informaci&oacute;n a Debian sobre el uso de paquetes:
-![Imagen ocho del manual para instalar Debian](/img/52.png)
+![Imagen cincuenta y dos del manual para instalar Debian](/img/52.png)
 
 #### [53] No instalamos escritorio, ni el servidor SSH ni las utilidades est&aacute;ndar del sistema:
-![Imagen ocho del manual para instalar Debian](/img/53.png)
+![Imagen cincuenta y tres del manual para instalar Debian](/img/53.png)
 
 #### [54] Tras instalar el software, configura el gestor de arranque:
-![Imagen ocho del manual para instalar Debian](/img/54.png)
+![Imagen cincuenta y cuatro del manual para instalar Debian](/img/54.png)
 
 #### [55] Confirmamos la instalaci&oacute;n de GRUB en la unidad principal:
-![Imagen ocho del manual para instalar Debian](/img/55.png)
+![Imagen cincuenta y cinco del manual para instalar Debian](/img/55.png)
 
 #### [56] Seleccionamos /dev/sda para instalar el gestor de arraque en el disco duro del netbook:
-![Imagen ocho del manual para instalar Debian](/img/56.png)
+![Imagen cincuanta y seis del manual para instalar Debian](/img/56.png)
 
 #### [57] Finalizar&aacute; la instalaci&oacute;n con unos &uacute;ltimos ajustes:
-![Imagen ocho del manual para instalar Debian](/img/57.png)
+![Imagen cincuenta y siete del manual para instalar Debian](/img/57.png)
 
 #### [58] Nos pedir&aacute; reiniciar el netbook sin la memoria usb de instalaci&oacute;n conectada:
-![Imagen ocho del manual para instalar Debian](/img/58.png)
+![Imagen cincuenta y ocho del manual para instalar Debian](/img/58.png)
 
 #### [59] Al reiniciar nos pide el nombre de usuario y la contrase&ntilde;a:
-![Imagen ocho del manual para instalar Debian](/img/59.png)
+![Imagen cincuenta y nueve del manual para instalar Debian](/img/59.png)
 
 #### [60] Accedemos a Debian en modo texto, ya que no hemos instalado un entono gr&aacute;fico:
-![Imagen ocho del manual para instalar Debian](/img/60.png)
+![Imagen sesenta del manual para instalar Debian](/img/60.png)
+
+<a name="paso2"></a>
+## Instalar el escritorio LXDE
+
+#### [61] Accedemos al sistema en modo administrador con el comando su (contraseña adminroot):
+![Imagen sesenta y uno del manual para instalar Debian](/img/61.png)
+
+#### [62] Para instalar el escritorio ejecutamos el comando `apt install lxde-core`:
+![Imagen sesenta y dos del manual para instalar Debian](/img/62.png)
+
+#### [63] Confirmamos la instalaci&oacute;n tecleando "S" + enter:
+![Imagen sesenta y tres del manual para instalar Debian](/img/63.png)
+
+#### [64] Reiniciamos el sistema con "reboot" + enter:
+![Imagen sesenta y cuatro del manual para instalar Debian](/img/64.png)
+
+#### [65] Accedemos al entorno gr&aacute;fico con los datos del usuario:
+![Imagen sesenta y cinco del manual para instalar Debian](/img/65.png)
+
+<a name="paso3"></a>
+## Instalar las utilidades del sistema
+
+#### [66] Abrimos la terminal:
+![Imagen sesenta y seis del manual para instalar Debian](/img/66.png)
+
+#### [67] Instalamos hardinfo con `apt install hardinfo`:
+![Imagen sesenta y siete del manual para instalar Debian](/img/67.png)
+
+#### [68] Confirmamos la instalaci&oacute;n tecleando "S" + enter:
+![Imagen sesenta y ocho del manual para instalar Debian](/img/68.png)
+
+#### [69] Instalamos xarchiver con `apt install xarchiver`y confirmamos la instalaci&oacute;n:
+![Imagen sesenta y nueve del manual para instalar Debian](/img/69.png)
+
+#### [70] Instalamos wget con `apt install wget`(este paquete no pide confirmaci&oacute;n):
+![Imagen setenta del manual para instalar Debian](/img/70.png)
+
+#### [71] Instalamos el gestor de redes en dos pasos, primero con `apt install network-manager`:
+![Imagen setenta y uno del manual para instalar Debian](/img/71.png)
+
+#### [72] Luego con `apt install network-manager-gnome`:
+![Imagen setenta y dos del manual para instalar Debian](/img/72.png)
+
+<a name="paso4"></a>
+## Instalar el sonido
+
+#### [73] Instalamos el sonido primero con `apt install alsa-utils`:
+![Imagen setenta y tres del manual para instalar Debian](/img/73.png)
+
+#### [74] Instalamos el administrador con `apt install wireplumber`:
+![Imagen setenta y cuatro del manual para instalar Debian](/img/74.png)
+
+#### [75] Salimos del modo root con "exit":
+![Imagen setenta y cinco del manual para instalar Debian](/img/75.png)
+
+#### [76] Ejecutamos el comando `systemctl --user stop pulseaudio`:
+![Imagen setenta y seis del manual para instalar Debian](/img/76.png)
+
+#### [77] Y luego `systemctl --user start pipewire`:
+![Imagen setenta y siete del manual para instalar Debian](/img/77.png)
+
+#### [78] Cerramos la terminal y reiniciamos:
+![Imagen setenta y ocho del manual para instalar Debian](/img/78.png)
+
+<a name="paso5"></a>
+## Instalar los codecs
+
+#### [79]  Abrimos la terminal como administrador y actualizamos el sistema con `apt update && sudo apt upgrade`:
+![Imagen setenta y nueve del manual para instalar Debian](/img/79.png)
+
+#### [80]  Instalamos los codecs con `apt install ffmpeg libavcodec-extra`:
+![Imagen ochenta del manual para instalar Debian](/img/80.png)
+
+#### [81]  Confirmamos la instalación con "S" + enter:
+![Imagen ochenta y uno del manual para instalar Debian](/img/81.png)
+
+<a name="paso6"></a>
+## Instalar el software multimedia
+
+#### [82]  Instalamos el reproductor parole con `apt install parole`:
+![Imagen ochenta y dos del manual para instalar Debian](/img/82.png)
+
+<a name="paso7"></a>
+## Instalar el software para internet
+
+#### [83]  Instalamos el navegador por consola con `apt install lynx`:
+![Imagen ochenta y tres del manual para instalar Debian](/img/83.png)
+
+#### [84]  Instalamos el cliente para descargar torrents con `apt install transmission`:
+![Imagen ochenta y cuatro del manual para instalar Debian](/img/84.png)
+
+#### [85]  Instalamos el cliente de intercambio de archivos con `apt install amule`:
+![Imagen ochenta y cinco del manual para instalar Debian](/img/85.png)
+
+<a name="paso8"></a>
+## Instalar el software para ofim&aacute;tica
+
+#### [86]  Instalamos el procesador de textos con `apt install abiword`:
+![Imagen ochenta y seis del manual para instalar Debian](/img/86.png)
+
+#### [87]  Instalamos el visor de documentos con `apt install evince`:
+![Imagen ochenta y siete del manual para instalar Debian](/img/87.png)
+
+#### [88]  Instalamos la calculadora con `apt install galculator`:
+![Imagen ochenta y ocho del manual para instalar Debian](/img/88.png)
+
+#### [89]  Instalamos el programa de dibujo `apt install xpaint`:
+![Imagen ochenta y nueve del manual para instalar Debian](/img/89.png)
+
+<a name="paso9"></a>
+## Instalar algunos juegos
+
+#### [90]  Instalamos el emulador paa dosbox con `apt install dosbox`:
+![Imagen noventa del manual para instalar Debian](/img/90.png)
+
+#### [91]  Instalamos el juego vodovod con `apt install vodovod`:
+![Imagen noventa y uno del manual para instalar Debian](/img/91.png)
+
+#### [92]  Instalamos el juego gweled con `apt install gweled`:
+![Imagen noventa y dos del manual para instalar Debian](/img/92.png)
+
+#### [93]  Instalamos el juego epiphany con `apt install epiphany`:
+![Imagen noventa y tres del manual para instalar Debian](/img/93.png)
+
+#### [94]  Instalamos el juego alienvlaster con `apt install alienblaster`:
+![Imagen noventa y cuatro del manual para instalar Debian](/img/94.png)
 
 
 
