@@ -352,7 +352,7 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 #### [93]  Instalamos el juego epiphany con `apt install epiphany`:
 ![Imagen noventa y tres del manual para instalar Debian](/img/93.png)
 
-#### [94]  Instalamos el juego alienvlaster con `apt install alienblaster`:
+#### [94]  Instalamos el juego alienblaster con `apt install alienblaster`:
 ![Imagen noventa y cuatro del manual para instalar Debian](/img/94.png)
 
 
