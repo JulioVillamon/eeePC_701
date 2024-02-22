@@ -395,7 +395,7 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 #### [105]  Extraemos dentro de .icons el archivo xcursor-retrosmart.tar.xz que est&aacute; en la carpeta Cursor Theme, dentro de eeePC-files:
 ![Imagen ciento cinco del manual para instalar Debian](/img/105.png)
 
-#### [106]  Para activarlo vamos a Inicio / Preferencias / Personalizar apariencia y comportamiento / Pesta&tilde;a Cursor del rat&oacute;n, seleccionamos Retrosmart Blanco y reiniciamos:
+#### [106]  Para activarlo vamos a Inicio / Preferencias / Personalizar apariencia y comportamiento / Pesta&ntilde;a Cursor del rat&oacute;n, seleccionamos Retrosmart Blanco y reiniciamos:
 ![Imagen ciento seis del manual para instalar Debian](/img/106.png)
 
 #### [107]  Copiamos la carpeta Classic95 (dentro de Full Icon Theme) que est&aacute; en la carpeta eeePC-files, dentro de .icons:
