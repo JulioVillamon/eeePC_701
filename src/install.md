@@ -12,6 +12,10 @@ La CPU es lenta para la internet actual y, si el sitio web tiene mucho contenido
 
 Se elige a Debian como sistema operativo instal&aacute;ndolo sin entorno gr&aacute;fico para ir cargando despu&eacute;s los elementos necesarios para hacerlo funcionar.
 
+La mayor&iacute;a de las ventanas se ajustan a la pantalla, para mayor comodidad se puede conectar a una pantalla externa.
+
+La pantalla externa solamente es necesaria para los ajustes del aspecto del terminal, ya que la ventana de confirmaci&oacute;n es m&aacute;s grande que la pantalla.
+
 **Tabla de contenidos**  
 [Crear medio de arranque](#paso0)  
 [Instalar Debian 12 sin escritorio](#paso1)  
