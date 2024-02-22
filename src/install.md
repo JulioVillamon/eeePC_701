@@ -355,6 +355,92 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 #### [94]  Instalamos el juego alienblaster con `apt install alienblaster`:
 ![Imagen noventa y cuatro del manual para instalar Debian](/img/94.png)
 
+<a name="paso10"></a>
+## Personalizar LXDE con la apariencia de Microsoft Windows 95
+
+#### [95]  Instalamos el gestor de apariencia de LXDE con `apt install lxappearance`:
+![Imagen noventa y cinco del manual para instalar Debian](/img/95.png)
+
+#### [96]  Instalamos la herramienta para personalizar el men&uacute; con `apt install menulibre`:
+![Imagen noventa y seis del manual para instalar Debian](/img/96.png)
+
+#### [97]  Colocamos la terminal en el directorio descargas y ejecutamos el comando `wget https://github.com/JulioVillamon/eeePC_701/raw/main/src/eeePC-files.zip`:
+![Imagen noventa y siete del manual para instalar Debian](/img/97.png)
+
+#### [98]  Vamos a descargas / clic derecho en el rat&oacute;n / Extraer aqu&iacute;:
+![Imagen noventa y ocho del manual para instalar Debian](/img/98.png)
+
+#### [99]  Clic derecho en el escritorio / Preferencias del escritorio en Modo de fondo de escritorio rellenamos con el color de fondo, el corlor de fondo es `#008080`:
+![Imagen noventa y nueve del manual para instalar Debian](/img/99.png)
+
+#### [100]  Clic derecho en el escritorio / Iconos del escritorio / Mostrar la carpeta "Documentos" y "Papelera" en el escritorio:
+![Imagen cien del manual para instalar Debian](/img/100.png)
+
+#### [101]  Inicio / Preferencias / Personalizar apariencia y comportamiento / Pesta&ntilde;a Control / Redmon, aplicamos el cambio:
+![Imagen ciento uno del manual para instalar Debian](/img/101.png)
+
+#### [102]  Doble clic en el archivo Retro-5-Classic-98-ObiWine.obt que est&aacute; en la carpeta OpenBox Theme, dentro de la carpeta eeePC-files:
+![Imagen ciento dos del manual para instalar Debian](/img/102.png)
+
+#### [103]  El administrador de Openbox deja una ventana peque&ntilde;a DEBAJO de la ventana grande con el directorio donde lo instala, hay que confirmar el directorio en la ventana peque&ntilde;a:
+![Imagen ciento tres del manual para instalar Debian](/img/103.png)
+
+#### [104]  Creamos dentro del directorio /home/user la carpeta .icons (habilitando "Mostrar lo oculto" en el men&uacute; Ver):
+![Imagen ciento cuatro del manual para instalar Debian](/img/104.png)
+
+#### [105]  Extraemos dentro de .icons el archivo xcursor-retrosmart.tar.xz que est&aacute; en la carpeta Cursor Theme, dentro de eeePC-files:
+![Imagen ciento cinco del manual para instalar Debian](/img/105.png)
+
+#### [106]  Para activarlo vamos a Inicio / Preferencias / Personalizar apariencia y comportamiento / Pesta&tilde;a Cursor del rat&oacute;n, seleccionamos Retrosmart Blanco y reiniciamos:
+![Imagen ciento seis del manual para instalar Debian](/img/106.png)
+
+#### [107]  Copiamos la carpeta Classic95 (dentro de Full Icon Theme) que est&aacute; en la carpeta eeePC-files, dentro de .icons:
+![Imagen ciento siete del manual para instalar Debian](/img/107.png)
+
+#### [108]  Para activarla vamos a Inicio / Preferencias / Personalizar apariencia y comportamiento / Tema de iconos, seleccionamos Classic95 y aplicamos:
+![Imagen ciento ocho del manual para instalar Debian](/img/108.png)
+
+#### [109]  Creamos la carpeta .button dentro de /home/user y guardamos el bot&oacute;n de inicio que está en la carpeta Button dentro de eeePC-files:
+![Imagen ciento nueve del manual para instalar Debian](/img/109.png)
+
+#### [110]  Para activarlo clic derecho en el bot&oacute;n de inicio de LXDE / Configuraci&oacute;n de men&uacute; / cambiamos el bot&oacute;n:
+![Imagen ciento diez del manual para instalar Debian](/img/110.png)
+
+#### [111]  Para cambiar el color de la barra de herramientas clic derecho sobre la barra de herramientas / Configuraci&oacute;n de panel / Seleccionar Tema del sistema como Fondo:
+![Imagen ciento once del manual para instalar Debian](/img/111.png)
+
+#### [112]  Clic derecho en el icono de cerrar sesi&oacute;n / Eliminar Barra de aolicaciones del panel:
+![Imagen ciento doce del manual para instalar Debian](/img/112.png)
+
+#### [113]  Clic derecho en el rect&aacute;ngulo negro / Eliminar Monitor de uso de la CPU del panel:
+![Imagen ciento trece del manual para instalar Debian](/img/113.png)
+
+#### [114]  Clic derecho en el icono del Gestor de archivos PCManFM / Eliminar barra de aplicaciones del panel:
+![Imagen ciento catorce del manual para instalar Debian](/img/114.png)
+
+#### [115]  Clic derecho en el icono de la ventana / Eliminar Minimizar todas las ventanas del panel:
+![Imagen ciento quince del manual para instalar Debian](/img/115.png)
+
+#### [116]  Clic derecho en el icono de los escritorios / Eliminar escritorios virtuales del panel:
+![Imagen ciento dieciseis del manual para instalar Debian](/img/116.png)
+
+#### [117]  Clic derecho en la barra de herramientas, justo al lado del bot&oacute;n inicio / Configuraci&oacute;n del espaciador (lo dejamos con un valor de 5):
+![Imagen ciento diecisiete del manual para instalar Debian](/img/117.png)
+
+#### [118]  Clic derecho en la barra de herramientas / Configuraci&oacute;n del panel / Apariencia / Tipo de lera (Color personalizado a negro):
+![Imagen ciento dieciocho del manual para instalar Debian](/img/118.png)
+
+#### [119]  Creamos la carpeta .fonts dentro de /home/user y pegamos el archivo windows_command_prompt.ttf que est&aacute; dentro de la carpeta CMD Font:
+![Imagen ciento diecinueve del manual para instalar Debian](/img/119.png)
+
+#### [120]  Abrimos la terminal, vamos a editar y en Tipo de letra del terminal cambiamos Monospace Regular por Windows Command Prompt Regular (tama&ntilde;o 13) y el estilo de cursor de bloque a subrayado:
+![Imagen ciento veinte del manual para instalar Debian](/img/120.png)
+
+#### [121]  A&ntilde;adimos al final del archivo .bashrc que est&aacute; en /home/user el texto que est&aacute; dentro de la carpeta CMD Font:
+![Imagen ciento veintiuno del manual para instalar Debian](/img/121.png)
+
+#### [122]  Con esto tendremos la terminal con el aspecto de la consola de Windows 95:
+![Imagen ciento veintidos del manual para instalar Debian](/img/122.png)
 
 
 
