@@ -430,6 +430,8 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 #### [118]  Clic derecho en la barra de herramientas / Configuraci&oacute;n del panel / Apariencia / Tipo de lera (Color personalizado a negro):
 ![Imagen ciento dieciocho del manual para instalar Debian](/img/118.png)
 
+*NOTA: Hay que conectar el netbook a una pantalla externa para poder aplicar los cambios*
+
 #### [119]  Creamos la carpeta .fonts dentro de /home/user y pegamos el archivo windows_command_prompt.ttf que est&aacute; dentro de la carpeta CMD Font:
 ![Imagen ciento diecinueve del manual para instalar Debian](/img/119.png)
 
