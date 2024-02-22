@@ -409,7 +409,7 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 #### [111]  Para cambiar el color de la barra de herramientas clic derecho sobre la barra de herramientas / Configuraci&oacute;n de panel / Seleccionar Tema del sistema como Fondo:
 ![Imagen ciento once del manual para instalar Debian](/img/111.png)
 
-#### [112]  Clic derecho en el icono de cerrar sesi&oacute;n / Eliminar Barra de aolicaciones del panel:
+#### [112]  Clic derecho en el icono de cerrar sesi&oacute;n / Eliminar Barra de aplicaciones del panel:
 ![Imagen ciento doce del manual para instalar Debian](/img/112.png)
 
 #### [113]  Clic derecho en el rect&aacute;ngulo negro / Eliminar Monitor de uso de la CPU del panel:
