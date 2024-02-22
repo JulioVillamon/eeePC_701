@@ -435,9 +435,11 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 ![Imagen ciento diecinueve del manual para instalar Debian](/img/119.png)
 
 #### [120]  Abrimos la terminal, vamos a editar y en Tipo de letra del terminal cambiamos Monospace Regular por Windows Command Prompt Regular (tama&ntilde;o 13) y el estilo de cursor de bloque a subrayado:
+*NOTA: Para poder cambiar la fuente, hay que conectar el netbook a una pantalla externa para poder aplicar los cambios*
 ![Imagen ciento veinte del manual para instalar Debian](/img/120.png)
 
 #### [121]  A&ntilde;adimos al final del archivo .bashrc que est&aacute; en /home/user el texto que est&aacute; dentro de la carpeta CMD Font:
+*NOTA: Para poder cambiar la fuente, hay que conectar el netbook a una pantalla externa para poder aplicar los cambios*
 ![Imagen ciento veintiuno del manual para instalar Debian](/img/121.png)
 
 #### [122]  Con esto tendremos la terminal con el aspecto de la consola de Windows 95:
