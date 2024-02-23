@@ -448,6 +448,9 @@ Durante la instalaci&oacute;n, el rat&oacute;n no est&aacute; habilitado. Se usa
 #### [122]  Con esto tendremos la terminal con el aspecto de la consola de Windows 95:
 ![Imagen ciento veintidos del manual para instalar Debian](/img/122.png)
 
+#### [123]  Por &uacute;ltimo s&oacute;lo nos quedar&iacute;a abrir MenuLibre desde Inicio / Accesorios / Editor del men&uacute; y editar los iconos a nuestro gusto:
+![Imagen ciento veintitres del manual para instalar Debian](/img/123.png)
+
 
 
 
