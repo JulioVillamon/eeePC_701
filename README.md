@@ -1,5 +1,9 @@
 # Asus eeePC 701 4G. Debian 12 on board
 Installing Debian 12 + LXDE on Asus eeePC 701 netbook
+
+## How to install
+- [Installation steps](src/install.md)
+
 ## Hardware
 - CPU: Intel Celeron M 630 MHz, 1 core at 0.6 GHz
 - RAM: 2 GB DDR2
